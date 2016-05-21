@@ -1,4 +1,5 @@
-# ion-db
-Database abstraction layer
+# IonDb Database Abstraction Layer
 
-ION DB Database Abstraction layer is used for simplisizing database interactions between several database connections and your code.
+IonDb Database Abstraction layer is a tool that simplisizes database interactions between several database connections and your code.
+
+It can work with both SQL and NoSQL data structures with adapter support. The pre-definition of fields make data creation and modification secure and automated.
